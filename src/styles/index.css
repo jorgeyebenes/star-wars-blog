@@ -1,3 +1,24 @@
-/* 
-    General Styles
-*/
+*{
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+background-color: #242121;
+overflow-x: hidden;
+}
+
+.nav-link:hover{
+color: rgb(243, 196, 43) !important;
+}
+
+.dropdown-menu{
+width: 15rem;
+}
+
+.tarjeta-info{
+background-color: #3b3737;
+color: #cacaca;
+border: 1px solid white;
+}
